@@ -104,3 +104,34 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+/Team Project/Assets/Scenes/SampleScene.unity
+/Team Project/Assets/Scenes/SampleScene.unity.meta
+/Team Project/Assets/Settings/DefaultVolumeProfile.asset
+/Team Project/Assets/Settings/DefaultVolumeProfile.asset.meta
+/Team Project/Assets/Settings/Mobile_Renderer.asset
+/Team Project/Assets/Settings/Mobile_Renderer.asset.meta
+/Team Project/Assets/Settings/Mobile_RPAsset.asset
+/Team Project/Assets/Settings/Mobile_RPAsset.asset.meta
+/Team Project/Assets/Settings/PC_Renderer.asset
+/Team Project/Assets/Settings/PC_Renderer.asset.meta
+/Team Project/Assets/Settings/PC_RPAsset.asset
+/Team Project/Assets/Settings/PC_RPAsset.asset.meta
+/Team Project/Assets/Settings/SampleSceneProfile.asset
+/Team Project/Assets/Settings/SampleSceneProfile.asset.meta
+/Team Project/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+/Team Project/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta
+/Team Project/Assets/TutorialInfo
+/Team Project/Assets/InputSystem_Actions.inputactions
+/Team Project/Assets/InputSystem_Actions.inputactions.meta
+/Team Project/Assets/Readme.asset
+/Team Project/Assets/Readme.asset.meta
+/Team Project/Assets/Scenes.meta
+/Team Project/Assets/Settings.meta
+/Team Project/Assets/TutorialInfo.meta
+/Team Project/.vsconfig
+/Team Project/Library
+/Team Project/Logs
+/Team Project/Packages
+/Team Project/ProjectSettings
+/Team Project/Temp/obj
+/Team Project/UserSettings
