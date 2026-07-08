@@ -104,3 +104,23 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+/Team Project/Assets/Scenes
+/Team Project/Assets/Settings
+/Team Project/Assets/TutorialInfo
+/Team Project/Assets/InputSystem_Actions.inputactions
+/Team Project/Assets/InputSystem_Actions.inputactions.meta
+/Team Project/Assets/Readme.asset
+/Team Project/Assets/Readme.asset.meta
+/Team Project/Assets/Scenes.meta
+/Team Project/Assets/Settings.meta
+/Team Project/Assets/TutorialInfo.meta
+/Team Project/Library
+/Team Project/Logs
+/Team Project/Logs/relay.txt
+/Team Project/Logs/trace-config.json
+/Team Project/Logs/traces.jsonl
+/Team Project/Packages
+/Team Project/ProjectSettings
+/Team Project/Temp
+/Team Project/UserSettings
+/Team Project/.vsconfig
